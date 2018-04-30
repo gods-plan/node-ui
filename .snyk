@@ -1,0 +1,17 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.12.0
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:moment:20170905':
+    - ngx-widgets > patternfly-ng > ngx-bootstrap > moment:
+        patched: '2018-04-30T15:00:19.814Z'
+    - fabric8-planner > ngx-widgets > patternfly-ng > ngx-bootstrap > moment:
+        patched: '2018-04-30T15:00:19.814Z'
+    - ngx-widgets > patternfly-ng > moment:
+        patched: '2018-04-30T15:00:19.814Z'
+    - fabric8-planner > ngx-widgets > patternfly-ng > moment:
+        patched: '2018-04-30T15:00:19.814Z'
+  'npm:moment:20161019':
+    - ngx-forge > patternfly > moment:
+        patched: '2018-04-30T15:00:19.814Z'

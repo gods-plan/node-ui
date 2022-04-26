@@ -47,7 +47,7 @@
     "sha256": "0.2.0",
     "zone.js": "0.8.18",
     "fabric8-stack-analysis-ui": "0.12.4",
-    "ejs": "2.5.7",
+    "ejs": "3.1.7",
     "minimist": "0.0.10",
     "convert-string": "0.1.0",
     "@types/node": "9.4.6",

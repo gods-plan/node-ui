@@ -153,7 +153,7 @@
     "crossvent": "1.5.4",
     "deep-extend": "0.4.2",
     "rxjs": "5.5.2",
-    "minimatch": "3.0.4",
+    "minimatch": "3.0.5",
     "@angular/forms": "4.4.6",
     "raven-js": "3.22.1",
     "c3": "0.4.21"

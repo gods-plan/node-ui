@@ -42,7 +42,7 @@
     "pluralize": "7.0.0",
     "@angular/upgrade": "4.4.6",
     "@angular/router": "4.4.6",
-    "bootstrap": "3.3.7",
+    "bootstrap": "4.0.0",
     "reflect-metadata": "0.1.10",
     "sha256": "0.2.0",
     "zone.js": "0.8.18",
